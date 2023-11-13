@@ -91,10 +91,3 @@ Image data annotation with Matplotlib, OpenCV, and Python
   plt_imshow("Thresh", thresh)
   ```
 
-## Expected output demo
-
-- ![](https://terabox.com/s/1hAxkCwWpgREKwzaE3WX7gA)
-- ![](https://terabox.com/s/1bzumnVDDs-VpxvXqYS0mpw)
-- ![](https://terabox.com/s/1bzlo54aDDEcyCGlNDvz4jQ)
-- ![](https://terabox.com/s/1vlVawz9akNppxLFAlLYBvA)
-
